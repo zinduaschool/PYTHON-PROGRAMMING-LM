@@ -1,4 +1,4 @@
-# INTRODUCTORY WEEK
+### INTRODUCTORY WEEK
 - Variables and Statements
 - Mathematical Expressions and Operations
 - Conditions
