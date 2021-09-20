@@ -1,1 +1,6 @@
-# PYTHON PROGRAMMING
+# INTRODUCTORY WEEK
+- Variables and Statements
+- Mathematical Expressions and Operations
+- Conditions
+- Loops
+- Functions
